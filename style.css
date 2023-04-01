@@ -1,0 +1,32 @@
+h1 {
+    font-size: 70px;
+    }
+    h2 {
+    font-size: 50px;
+    }
+    p {
+    font-size: 30px;
+    }
+    button {
+    font-size: 30px;
+    border-radius: 10px;
+    border-color: rgb(211, 37, 37);
+    width: 50%;
+    margin-bottom: 20px;
+    }
+    button:hover {
+    background-color: rgb(211, 216, 216);
+    }
+    
+    
+    body {
+        position: absolute;
+        transform: translate(90%,10%);
+        width: fit-content;
+        margin-bottom: 20px;
+        border-top: 1em solid rgb(211, 37, 37);
+        border-left: 1em solid rgb(211, 37, 37);
+        border-right: 1em solid black;
+        border-bottom: 1em solid black;
+        padding: 10px;
+    }
